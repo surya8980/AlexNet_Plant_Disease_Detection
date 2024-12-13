@@ -1,4 +1,4 @@
-# AlexNet_Plant_Disease_Detection
+# [AlexNet_Plant_Disease_Detection](https://www.kaggle.com/code/suryaprakash8980/plant-disease-detection-dl-using-alexnet)
 
 The plants pruning to diseases have a significant negative impact on food production. If the diseases don’t been recognized early, food insecurity will occur. Early detection is the basis for effective prevention and control of plant diseases, and they play a vital role in the management and decision-making of agricultural production. In recent years, plant disease identification has been a crucial issue.
 
